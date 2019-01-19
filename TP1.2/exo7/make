@@ -1,0 +1,2 @@
+all:
+	gcc ./chane.c -o main

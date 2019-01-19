@@ -1,0 +1,14 @@
+AMD’s Zen 2 architecture has long been in the works. AMD’s design team started
+working on Zen 2right after the finished working on the first Zen architecture.
+We know that refinements were made to the original architecture and we got the
+new Zen+ design but the majority of the team was then working on completing
+the design for Zen 2. In February of this year, it was reported that AMD had
+finished designing the chip architecture and would be available for sampling later
+this year with a range of products available starting 2019
+Most people think that Zen 2 is nothing more than a generational Frequency / IPC bump.
+That is a very wrong assumption as Zen 2 as an architecture is entirely overhauled.
+The jump from Zen to Zen+ was one incremental step, the jump from Zen+ to Zen 2 aims
+to be a revolutionary step. Yes, the rumors claim that the IPC improvement and higher
+clock speeds are there. They also mention that those are higher than expected on very early
+engineering samples. This shows that final retail samples could be more than 15% IPC jump
+versus what we have been hearing for a while. But it doesn’t end here.

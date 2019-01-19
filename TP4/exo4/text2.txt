@@ -1,0 +1,8 @@
+Intel's TDP has long been questioned, but this particular generation put the 95W TDP under fire as users noticed media outlets
+measuring power consumption at well over 100W on most boards. It isn't uncommon to see the 9900K at 150W or more in some AVX workloads,
+like Blender, thus far-and-away exceeding the 95W number. Aside from TDP being an imperfect specification for power, there's also a lot 
+that isn't understood about it – including by motherboard manufacturers, apparently. All manufacturers are exceeding Intel guidance
+for the Turbo boosting duration in some way, which is causing the uncharacteristically high power consumption that produces unfairly
+advantaged performance results. The other end of this is that the 9900K looks much hotter in some tests.
+For readers of our 9900K review, you might remember a chart from our streaming benchmarks that illustrated power fall-off on the 9900K.
+That was from hitting power limit 2, whereupon the CPU clocks down to meet TDP spec (~95W CPU Package Power). Let's reproduce that chart:

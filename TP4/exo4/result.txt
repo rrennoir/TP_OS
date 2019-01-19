@@ -1,0 +1,27 @@
+AMD’s Zen 2 architecture has long been in the works. AMD’s design team started
+Intel's TDP has long been questioned, but this particular generation put the 95W TDP under fire as users noticed media outlets
+working on Zen 2right after the finished working on the first Zen architecture.
+measuring power consumption at well over 100W on most boards. It isn't uncommon to see the 9900K at 150W or more in some AVX workloads,
+We know that refinements were made to the original architecture and we got the
+like Blender, thus far-and-away exceeding the 95W number. Aside from TDP being an imperfect specification for power, there's also a lot 
+new Zen+ design but the majority of the team was then working on completing
+that isn't understood about it – including by motherboard manufacturers, apparently. All manufacturers are exceeding Intel guidance
+the design for Zen 2. In February of this year, it was reported that AMD had
+for the Turbo boosting duration in some way, which is causing the uncharacteristically high power consumption that produces unfairly
+finished designing the chip architecture and would be available for sampling later
+advantaged performance results. The other end of this is that the 9900K looks much hotter in some tests.
+this year with a range of products available starting 2019
+For readers of our 9900K review, you might remember a chart from our streaming benchmarks that illustrated power fall-off on the 9900K.
+Most people think that Zen 2 is nothing more than a generational Frequency / IPC bump.
+That was from hitting power limit 2, whereupon the CPU clocks down to meet TDP spec (~95W CPU Package Power). Let's reproduce that chart:
+That is a very wrong assumption as Zen 2 as an architecture is entirely overhauled.
+
+The jump from Zen to Zen+ was one incremental step, the jump from Zen+ to Zen 2 aims
+
+to be a revolutionary step. Yes, the rumors claim that the IPC improvement and higher
+
+clock speeds are there. They also mention that those are higher than expected on very early
+
+engineering samples. This shows that final retail samples could be more than 15% IPC jump
+
+versus what we have been hearing for a while. But it doesn’t end here.
