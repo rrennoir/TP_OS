@@ -6,7 +6,7 @@ void main(void)
     char string[4096];
 
     printf("Enter a string.\n");
-    scanf("%49s", string);
+    scanf("%4095s", string);
 
     while (string[i] != '\0')
     {
