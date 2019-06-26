@@ -1,32 +1,32 @@
 #include <stdio.h>
 
-int PGCD (int a, int b){
-    int difference;
-    int temp;
+int PGCD (int a, int b)
+{
+    int diff, tmp;
 
-    while (a != b){
-        temp = a;
+    while (a != b)
+    {
+        tmp = a;
         a = b;
-        b = temp;
-        if (a < b){
-            temp = b;
+        b = tmp;
+
+        if (a < b)
+        {
+            tmp = b;
             b = a;
-            a = temp;
+            a = tmp;
         }
-
-        difference = a - b;
+        diff = a - b;
 
         a = b;
-        b = difference;
+        b = diff;
     }
     return a;
 }
 
 void main(void)
 {
-    int nb1 = 0;
-    int nb2 = 0;
-    int result;
+    int nb1 = 0, nb2 = 0, result;
 
     printf("Give 2 integer.\n");
     scanf("%d %d", &nb1, &nb2);

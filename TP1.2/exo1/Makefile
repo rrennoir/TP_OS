@@ -1,2 +1,3 @@
 all:
-	gcc ./exo1.c -o main
+	gcc ./exo1.c -o main.out
+	./main.out
