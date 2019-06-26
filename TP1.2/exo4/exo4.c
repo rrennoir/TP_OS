@@ -1,13 +1,15 @@
 #include <stdio.h>
 
-void main(void){
+void main(void)
+{
     int i = 0, length = 0;
-    char string[50];
+    char string[4096];
 
     printf("Enter a string.\n");
     scanf("%49s", string);
 
-    while (string[i] != '\0'){
+    while (string[i] != '\0')
+    {
         length ++;
         i ++;
     }
